@@ -1,0 +1,13 @@
+---
+title: acp blog
+listing: 
+  sort: "date desc"
+  contents: "posts/*/index.qmd"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+page-layout: full
+title-block-banner: "#edf9f5"
+title-block-banner-color: body
+search: false
+---

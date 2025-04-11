@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+resources:
+    - resume-acp.pdf
+    - cvacp.pdf
+
+     
+website:
+  title: "adi cilik pierewan"
+  
+  page-footer: 
+    right: "Built with quarto with ❤️"
+    left: |
+    
+      Content {{< fa brands creative-commons >}} 2021-2025 by acp <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)      
+  navbar:
+    background: "#015B41"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Publications"
+        href: paper/index.qmd
+      - text: "Books"
+        href: books/index.qmd  
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Training"
+        href: training/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

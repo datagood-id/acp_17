@@ -1,0 +1,17 @@
+- category: Training
+  description: |
+    Training kami.
+  tiles: 
+    - title: Evidence-Based Policy 
+      description: Sleman
+      href: https://ebp-dg.netlify.app/
+      thumbnail: ebp.png
+    - title: Sleman
+      description: Sleman
+      href: https://ebp-dg.netlify.app/
+      thumbnail: sleman.png
+    - title: Tidyverse
+      description: TidySleman
+      href: tidyverse.qmd
+      thumbnail: sleman.png
+      

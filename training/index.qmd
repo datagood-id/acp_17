@@ -1,0 +1,13 @@
+---
+pagetitle: "Training"
+format: 
+  html: 
+    toc: false
+search: false
+execute: 
+  echo: false
+listing: 
+  - id: training/index.qmd
+    template: training.ejs
+    contents: training.yml
+---

@@ -1,0 +1,15 @@
+- category: Apps
+  description: |
+    Dashboard hasil analisis data.
+  tiles:
+    - title: SPTK Indonesia
+      subtitle: SPTK Indonesia
+      href: https://datakebijakan.shinyapps.io/sptk_app3/
+      thumbnail: indo.png
+    - title: SPTK Jogja
+      subtitle: SPTk Jogja
+      href: https://datakebijakan.shinyapps.io/sptk-diy/
+      thumbnail: jogja.png
+    - title: Menelisik Sejarah
+      href: https://datakebijakan.shinyapps.io/interval_usia/
+      thumbnail: sejarah.png

@@ -1,0 +1,40 @@
+---
+title: Publications
+layout: custom-standard
+page-layout: full
+title-block-banner: "#edf9f5"
+title-block-banner-color: body
+search: false
+---
+
+## Peer Reviewed Papers
+
+1.  Sujarwoto Sujarwoto, Gindo Tampubolon & **Adi Cilik Pierewan**. (2017) Individual and Contextual Factors of Happiness and Life Satisfaction in a Low Middle Income Country. *Applied Research in Quality of Life*. [doi: 10.1007/s11482-017-9567-y](https://link.springer.com/article/10.1007/s11482-017-9567-y).
+
+2.  Sujarwoto Sujarwoto, Gindo Tampubolon & **Adi Cilik Pierewan**. (2017) A tool to help or harm? Online social media use and adult mental health in Indonesia. *International Journal of Mental Health and Addiction*. [doi: 10.1007/s11469-019-00069-2](https://link.springer.com/article/10.1007/s11469-019-00069-2).
+
+3.  **Adi Cilik Pierewan** & Gindo Tampubolon. (2015) Happiness and Health in Europe: A Multivariate Multilevel Model. *Applied Research in Quality of Life*. [doi: 10.1007/s11482-014-9309-3](https://link.springer.com/article/10.1007/s11482-014-9309-3).
+
+4.  **Adi Cilik Pierewan** & Gindo Tampubolon. (2014) Spatial dependence multilevel model of well-being across regions in Europe. *Applied Geography*. [doi: 10.1016/j.apgeog.2013.12.005](https://www.sciencedirect.com/science/article/abs/pii/S0143622813002816).
+
+5.  **Adi Cilik Pierewan** & Gindo Tampubolon. (2014) Internet Use and Well-Being Before and During the Crisis in Europe. *Social Indicators Research*. [doi: 10.1007/s11205-013-0535-0](https://link.springer.com/article/10.1007/s11205-013-0535-0).
+
+6.  Emmanuel Nizeyumukiza, **Adi Cilik Pierewan**, Edmond Ndayambaje, Yulia Ayriza. (2020) Trust and well-being: Evidence from Indonesia. *Asian Social Work and Policy Review*. [doi:10.1111/aswp.12205](https://onlinelibrary.wiley.com/doi/abs/10.1111/aswp.12205).
+
+7.  Emmanuel Nizeyumukiza, **Adi Cilik Pierewan**, Edmond Ndayambaje, Yulia Ayriza. (2020) Social Engagement and Retirement Satisfaction: Evidence from Indonesia. *Journal of Population and Social Studies*. [doi:10.25133/JPSSv28n3.015](https://so03.tci-thaijo.org/index.php/jpss/article/view/227699).
+
+8.  Kismiantini; Ezra Putranda Setiawan; **Adi Cilik Pierewan**; Montesinos-López, Osval Antonio. (2021) Growth Mindset, School Context, and Mathematics Achievement in Indonesia: A Multilevel Model. *Journal on Mathematics Education*. [doi:10.22342/jme.12.2.13690.279-294](https://ejournal.unsri.ac.id/index.php/jme/article/view/13690).
+
+9.  Edmond Ndayambaje, **Adi Cilik Pierewan**, Emmanuel Nizeyumukiza, Balthazar Nkundimana, Yulia Ayriza. (2020) Marital Status and Subjective Well-being: Does Education Level Take Into Account?. *Cakrawala Pendidikan*. [doi:10.21831/cp.v39i1.29620](https://journal.uny.ac.id/index.php/cp/article/view/29620).
+
+10. Deri Indrahadi, Amika Wardana, **Adi Cilik Pierewan**. (2021) The prevalence of diabetes mellitus and relationship with socioeconomic status in the Indonesian population. *Cakrawala Pendidikan*. [doi:10.22146/ijcn.55003](https://journal.uny.ac.id/index.php/cp/article/view/29620).
+
+11. Susanti Susanti, **Adi Cilik Pierewan** , Kismiantini Kismiantini, and Sofjan Aripin. (2022) What Makes Indonesians Satisfied With Their Health? A Multilevel Analysis . *Sage Open*. [doi:10.1177/21582440221121722](https://journals.sagepub.com/doi/pdf/10.1177/21582440221121722).
+
+## Books
+
+1.  **Adi Cilik Pierewan**. [*Analisis Data Sekunder Untuk Ilmu Sosial (1st Ed)*](http://daris.netlify.app/). 2023.
+
+## Working Papers
+
+1.  **Adi Cilik Pierewan**, Ruut Veenheoven. (2018). Happy life years in Indonesia. [EHERO working paper](https://www.eur.nl/en/ehero/publications/working-papers/2018-04)

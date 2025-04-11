@@ -1,0 +1,13 @@
+---
+pagetitle: "Talks"
+format: 
+  html: 
+    toc: false
+search: false
+execute: 
+  echo: false
+listing: 
+  - id: talks/index.qmd
+    template: talks.ejs
+    contents: talks.yml
+---

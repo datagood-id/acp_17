@@ -1,0 +1,142 @@
+---
+title: MLM Psikologi
+categories:
+  - Psychology
+  - MLM
+author: Adi Cilik Pierewan
+date: 4/9/2023
+image: gm-plot.png
+image-alt: "Visualisasi skor matematika dan growth mindset"
+---
+
+## Motivasi
+
+-   Data besar/sekunder dalam R
+-   Insight psikologi untuk kebijakan
+-   Penggunaan R
+
+## Outline
+
+-   Mengapa multilevel?
+-   Konsep utama analisis multilevel
+-   Ilustrasi estimasi multilevel
+-   Penerapan dan refleksi
+
+## Annual Reviews of Psychology
+
+![](arp.png)
+
+## Mengapa analisis multilevel?
+
+-   Pemodelan regresi klasik mengasumsikan bahwa kasus adalah independen. Hal ini tidak selalu benar ketika kita menjumpai struktur tersarang. Misalnya, siswa yang bersekolah di sekolah yang sama mungkin memiliki hasil yang serupa (atau lebih mirip daripada sampel acak).
+
+-   Jadi, dalam situasi ini asumsi regresi OLS tidak terpenuhi, mengabaikan struktur tersarang akan menyebabkan hasil yang bias.
+
+-   Analisis statistik standar sangat bergantung pada asumsi independensi pengamatan. Jika asumsi ini dilanggar (pada data tersarang) maka standar error terlalu kecil dan menghasilkan banyak hasil signifikansi yang kurang tepat.
+
+## Mengapa analisis multilevel?
+
+-   Struktur tersarang ini bisa memberi tahu kita hal-hal penting tentang dunia sosial. Mengetahui berapa banyak variasi yang kita miliki di setiap tingkat dapat menginformasikan kebijakan dan teori.
+
+-   Model multilevel memungkinkan kita untuk memperkirakan sumber variasi yang berbeda ini.
+
+## Mengapa Analisis Multilevel?
+
+![](anotherwhy.png)
+
+## Penelitian multilevel
+
+-   Penelitian sosial seringkali melibatkan masalah terkait menyelidiki hubungan antara individu dan konteks sosial tempat mereka tinggal, bekerja , atau belajar.
+
+-   Asumsi dasarnya adalah individu berinteraksi dengan konteks sosial tempat mereka berada, individu dipengaruhi oleh konteks atau kelompok di mana mereka berasal , dan bahwa kelompok tersebut pada gilirannya dipengaruhi oleh individu yang membentuk kelompok itu .
+
+-   Individu dan kelompok sosial dikonseptualisasikan sebagai sistem hierarki individu yang tersarang dalam kelompok, dengan individu dan kelompok ditentukan pada level terpisah dari sistem hierarki ini .
+
+-   Secara alami, sistem seperti itu dapat diamati pada level hierarki yang berbeda, dan variabel dapat ditentukan di setiap level.
+
+-   Hal ini mengarah pada penelitian tentang hubungan antara variabel yang menjadi ciri individu dan variabel yang mencirikan kelompok. Penelitian ini disebut sebagai penelitian multilevel
+
+## Data tersarang
+
+-   Struktur data bertingkat adalah struktur di mana pengamatan pada satu tingkat analisis disarangkan (atau dikelompokkan atau dikelompokkan) dalam pengamatan pada tingkat analisis lainnya.
+-   Struktur data bertingkat digambarkan hanya sebagai bersarang atau bersarang secara hierarkis.
+-   Fitur penting dan menentukan dari data multilevel tersebut adalah bahwa pengamatan pada satu tingkat analisis tidak independen satu sama lain---ada saling ketergantungan di antara data yang perlu diperhitungkan.
+
+## Ilustrasi
+
+![](multilevel-model2_col_sep.png)
+
+## Intuisi analisis multilevel
+
+-   Dalam model bertingkat kita memisahkan sumber variasi.
+-   Dalam konteks saat kita memisahkan informasi tingkat siswa dan sekolah sehingga kita memiliki dua sumber variasi yang berbeda.
+-   Dalam proses estimasi kita mulai dengan model null sehingga kita memiliki referensi dan memahami berapa banyak variasi yang dimiliki pada setiap level.
+
+## Multilevel model
+
+Yij = γ00 + U0j + Rij
+
+-   Yij: variabel tergantung yang bervariasi secara individual i, pada kelompok j.
+-   γ00: intercept
+-   U0j: variasi antar kelompok. Memberi informasi bahwa kelompok berbeda satu sama lain.
+-   Rij: variasi individual. Koefisien ini memberi informasi perbedaan individu setiap kelompok.
+
+## Random Intercept
+
+![](intercept.png)
+
+## Random Slope
+
+![](slope.png)
+
+## Intraclass correlation (ICC) 1
+
+-   Dalam kasus di mana individu dikelompokkan atau bersarang dalam unit level yang lebih tinggi misal: kelas , sekolah , distrik sekolah), dimungkinkan untuk memperkirakan korelasi antara skor individu dalam cluster/struktur bersarang menggunakan korelasi intraklass 𝜌).
+-   𝜌 adalah ukuran proporsi variasi dalam variabel hasil yang terjadi antara grup versus variasi total yang ada.
+
+## Intraclass correlation (ICC) 2
+
+-   Nilai 𝜌 berkisar dari 0 (tidak ada variansi antar grup) hingga 1 (variansi antar grup).
+
+-   Nilai 𝜌 yang tinggi mengindikasikan bahwa sumbangan besar dari variasi total dalam ukuran hasil dikaitkan dengan keanggotaan grup; yaitu ada hubungan yang relatif kuat antara skor untuk dua individu dari kelompok yang sama ⟹individu dalam grup yang sama (misalnya sekolah) lebih mirip pada variabel terukur daripada individu yang berada di kelompok lain.
+
+## Intraclass correlation (ICC) 3
+
+-   ICC adalah alat penting dalam pemodelan multilevel, karena ICC merupakan indikator sejauh mana struktur data multilevel dapat mempengaruhi variabel hasil yang diinginkan.
+
+-   Nilai ICC yang lebih besar menunjukkan dampak pengelompokan yang lebih besar. Berarti semakin tinggi nilai ICC maka semakin penting penggunaan analisis multilevel.
+
+# Random Slope
+
+## Intuisi Random Slope
+
+-   Model sebelumnya membuat asumsi bahwa pengaruh growth mindset adalah sama di semua sekolah (itu sebabnya garisnya paralel).
+
+-   Bagaimana jika satu skor growth mindset lebih "efektif" di beberapa sekolah daripada yang lain dalam meningkatkan skor matematika.
+
+-   Pada titik ini random slope diperlukan.
+
+-   Kita memperoleh koefisien baru yang menggambarkan perbedaan antar sekolah dalam pengaruh growth mindset terhadap skor matematika.
+
+## Interpretasi random effects
+
+-   Grafik menunjukkan bahwa beberapa sekolah memiliki memiliki skor matematika yang tinggi tetapi memiliki efek yang rendah pada outcome dan sebaliknya.
+
+-   Garis biru mewakili hubungan antara intersep acak dan kemiringan dengan koefisien sebesar 0.6. Hal ini menunjukkan bahwa semakin kecil fixed mindset, semakin tinggi skor matematika.
+
+# Refleksi untuk penelitian lanjut
+
+## Penerapan
+
+-   Eksperimen
+-   Meta analisis
+-   Survey
+-   Multilevel SEM
+-   Penelitian longitudinal
+
+## Refleksi akhir
+
+-   Analisis multilevel membantu mengurangi kesalahan dalam pembuatan kesimpulan
+-   Pentingnya memperhatikan konteks dalam studi psikologi
+-   Pemanfaatan data skala besar untuk penelitian psikologi
+-   Dalam pembuatan kebijakan analisis multilevel dapat digunakan untuk kebijakan yang lebih presisi.

@@ -1,0 +1,130 @@
+---
+title: "Linear Regression"
+format: revealjs
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+
+```
+
+## Illustration
+
+-   A group of researchers in Indonesia were interested in looking at how well social relationship and/or healths predicted happiness modify this association
+-   The study included more than 72,000 respondents, and differences in happiness mean scores were estimated using linear regression.
+-   The results found that level of social relationship health did predict happiness significantly
+
+## What is prediction?
+
+The basic idea is to use a set of previously collected data (such as data on variables X and Y), calculate how correlated these variables are with one another, and then use that correlation and the knowledge of X to predict Y. Sound difficult? It's not really, especially once you see it illustrated.
+
+## Example
+
+-   A researcher collects data on total high school grade point average (GPA) and first-year university GPA for 400 students in their freshman year at the state university.
+-   He computes the correlation between the two variables. Then, he uses the techniques you'll learn about later in this chapter to take a new set of high school GPAs and (knowing the relationship between high school GPA and first-year college GPA from the previous set of students) predict what first-year GPA should be for a new sample of 400 students.
+
+## The logic of prediction
+
+-   Prediction is the computation of future outcomes based on a knowledge of present ones.
+-   When we want to predict one variable from another, we need to first compute the correlation between the two variables.
+
+## Data
+
+![](reg5.png)
+
+## Plot
+
+![](reg4.png)
+
+## Regression line
+
+![](reg3.png)
+
+## Predicting
+
+![](reg2.png)
+
+## Error in predictiong
+
+![](reg1.png)
+
+## Basic formula of regression
+
+$$
+y=bX+a
+$$
+
+-   Y\^ is the predicted score of Y based on a known value of X,
+-   b is the slope of the line,
+-   X is the score being used as the predictor, and
+-   a is the point at which the line crosses the y-axis.
+
+## Detailed formula
+
+$$
+b = \frac{{\Sigma{XY}}-(\Sigma{X}.\Sigma{Y}/n)}{\Sigma{X^2}-[(\Sigma{X})^2)/n]}
+$$
+
+$$
+a=\frac{\Sigma{Y}-b\Sigma{X}}{n}
+$$
+
+## Entry data
+
+```{r, echo=TRUE}
+hs_gpa <- c(3.50, 2.50, 4.00, 3.80, 2.80, 1.90, 3.20, 3.70, 2.70, 3.30)
+u_gpa <- c(3.30, 2.20, 3.50,  2.70, 3.50, 2.00, 3.10, 3.40, 1.90, 3.70)
+gpa <- data.frame(hs_gpa, u_gpa) 
+```
+
+## calculate the components
+
+```{r,echo=TRUE}
+gpa<-gpa %>% mutate(hs_gpa_hat=hs_gpa^2) %>%
+  mutate(u_gpa_hat=u_gpa^2) %>%
+  mutate(hsXu=hs_gpa*u_gpa) 
+gpa
+```
+
+## Early Table
+
+![](reg0.png)
+
+## Calculate b
+
+```{r, echo=TRUE}
+sum_hs=sum(hs_gpa)
+sum_hs_hat=sum(hs_gpa)^2
+sum_u=sum(u_gpa)
+sum_hs_gpa_hat=sum(gpa$hs_gpa_hat)
+sum_hs_u=sum(gpa$hsXu)
+
+sum_hs
+sum_hs_hat
+sum_u
+sum_hs_gpa_hat
+sum_hs_u
+```
+
+## calculate b
+
+```{r, echo=TRUE}
+n <- 10
+b <- (sum_hs_u-(sum_hs*sum_u)/n) / ((sum_hs_gpa_hat-(sum_hs_hat)/n))
+b
+```
+
+## calculate a
+
+```{r,echo=TRUE}
+a <- (sum_u - b*sum_hs)/n
+a
+```
+
+## calculate y
+
+```{r,echo=TRUE}
+y <- b*3.5 + a
+y
+```

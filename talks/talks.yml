@@ -1,0 +1,13 @@
+- category: Talks
+  description: |
+    Invited talks.
+  tiles: 
+
+    - title: Tidyverse
+      description: TidySleman
+      href: tidyverse.qmd
+      thumbnail: tidyverse.png
+    - title: Wellbeing Policy
+      description: TidySleman
+      href: swbpolicy.qmd
+      thumbnail: wbpolicy.png

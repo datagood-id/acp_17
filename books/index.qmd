@@ -1,0 +1,13 @@
+---
+pagetitle: "Books"
+format: 
+  html: 
+    toc: false
+search: false
+execute: 
+  echo: false
+listing: 
+  - id: books/index.qmd
+    template: books.ejs
+    contents: books.yml
+---

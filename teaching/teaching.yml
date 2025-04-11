@@ -1,0 +1,26 @@
+- category: Teaching
+  description: |
+    Training kami.
+  tiles: 
+    - title: Tidyverse
+      description: TidySleman
+      href: tidyverse.qmd
+      thumbnail: sleman.png
+    - title: Statistika Sosial
+      description: UNY
+      href: https://kuliah-stat.netlify.app/
+      thumbnail: statistika-sosial.png
+    - title: Statistika Sosial
+      description: UNY
+      href: https://fis6203.netlify.app/
+      thumbnail: statistika-sosial.png
+    - title: Analisis Data Sosial
+      description: UNY
+      href: https://pso6388.netlify.app/
+      thumbnail: analisis-data-sos.png
+    - title: Statistika Sosial
+      href: https://kuliyah-staso.netlify.app/
+      thumbnail: statistika-sosial.png
+    
+  
+  

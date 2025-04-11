@@ -1,0 +1,60 @@
+---
+title: "Analysis of Variance (Anova)"
+categories:
+  - anova
+  - test
+author: Adi Cilik Pierewan
+date: 4/13/2023
+image: anova.jpeg
+---
+
+## Library
+
+```{r,echo=TRUE}
+library(psych)
+library(tidyverse)
+library(rstatix)
+library(report)
+```
+
+## Membaca data
+
+-   data pengukuran tingkat kebahagiaan
+-   tingkat DIY
+
+```{r,echo=TRUE}
+income <- read_csv("income_happiness_diy.csv")
+str(income)
+```
+
+## Visualisasi awal
+
+```{r, echo=TRUE}
+income %>% ggplot(aes(Income_hh, Happiness, color = Income_hh)) +
+  geom_jitter()
+```
+
+## Deskriptif
+
+```{r,echo=TRUE}
+income %>%
+  group_by(Income_hh) %>%
+  get_summary_stats(Happiness, type = "mean_sd")
+```
+
+## Uji anova
+
+```{r,echo=TRUE}
+beda <- aov(Happiness~Income_hh, data=income)
+summary(beda) 
+```
+
+## Effect Size
+
+-   A small effect size is about .01.
+-   A medium effect size is about .06.
+-   A large effect size is about .14.
+
+```{r,echo=TRUE}
+report(beda)
+```

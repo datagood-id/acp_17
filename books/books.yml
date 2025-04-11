@@ -1,0 +1,17 @@
+- category: Books
+  description: |
+    Buku kami.
+  tiles: 
+  
+    - title: Analisis Data Sekunder
+      description: Buku Analisis Data Sekunder
+      href: https://daris.netlify.app/
+      thumbnail: data-sekunder.png
+    - title: Statistika Sosial
+      href: https://sparkly-gaufre-8050fc.netlify.app/
+      thumbnail: statistika-sosial.png
+    - title: Multilevel Model
+      href: https://mulemo.netlify.app/
+      thumbnail: multilevel-model.png
+  
+  

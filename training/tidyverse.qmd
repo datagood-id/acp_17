@@ -1,0 +1,26 @@
+---
+title: "an educator's perspective of the tidyverse"
+subtitle: "[bit.ly/tidyperspective-dagstat](https://bit.ly/tidyperspective-dagstat)"
+author: "mine çetinkaya-rundel"
+format:  revealjs
+code-link: true
+execute:
+  echo: true
+  freeze: auto
+---
+
+# introduction
+
+# principles of the tidyverse
+
+## tidyverse
+
+::: columns ::: {.column width="80%"} - meta R package that loads eight core packages when invoked and also bundles numerous other packages upon installation - tidyverse packages share a design philosophy, common grammar, and data structures :::
+
+## setup
+
+**Data:** Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the **openintro** package, with a few modifications.
+
+# thank you!
+
+[bit.ly/tidyperspective-dagstat](https://bit.ly/tidyperspective-dagstat)

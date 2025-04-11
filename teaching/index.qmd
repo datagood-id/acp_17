@@ -1,0 +1,13 @@
+---
+pagetitle: "Teaching"
+format: 
+  html: 
+    toc: false
+search: false
+execute: 
+  echo: false
+listing: 
+  - id: teaching/index.qmd
+    template: teaching.ejs
+    contents: teaching.yml
+---

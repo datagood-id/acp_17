@@ -1,0 +1,53 @@
+---
+title: "adi cilik pierewan"
+image: acp_2.jpg
+
+about:
+  template: trestles
+  image-width: 8em
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      url: "https://linkedin.com/in/adicilik"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/datagood.id"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/adicilik"
+    - text: Email
+      icon: gmail
+      url: "mailto:adicilik@gmail.com"
+    - text: Scopus
+      icon: scopus
+      url: "https://www.scopus.com/authid/detail.uri?authorId=55964444200"
+    - text: Orcid 
+      url: "https://orcid.org/0000-0003-4381-5106"
+    - text: CV
+      url: "cvacp.pdf"
+comments: false
+---
+
+::: column-page
+## Bio
+
+I am an assistant professor in quantitative methods for social science at [Universitas Negeri Yogyakarta](http://staffnew.uny.ac.id/staff/132319827). I obtained my [Bachelor of Psychology](https://psikologi.ugm.ac.id/sarjana-psikologi/) and [Master of Sociology](https://sosiologi.fisipol.ugm.ac.id/program-magister-reguler/) from Universitas Gadjah Mada, and obtained PhD from Institute for Social Change now becoming [Cathie Marsh Institute for Social Research, University of Manchester](https://www.cmi.manchester.ac.uk/). My research focus is twofold: how to teach next generation of social data science and examine happiness for pubic policy.
+
+## Selected Projects
+
+### Publications
+
+**Spatial dependence multilevel model of well-being across regions in Europe.** *Adi Cilik Pierewan*., Gindo Tampubolon. 2014. Applied Geography 47: 168-176. <https://doi.org/10.1016/j.apgeog.2013.12.005>
+
+**Individual and contextual factors of happiness and life satisfaction in a low middle income country.** Sujarwoto, Gindo Tampubolon, *Adi Cilik Pierewan*. 2019. Applied Research in Quality of Life 13, 927-945 <https://doi.org/10.1007/s11482-017-9567-y>
+
+**Happiness and health in Europe: a multivariate multilevel model.** *Adi Cilik Pierewan*., Gindo Tampubolon. 2015. Applied Research in Quality of Life 10: 237-252. <https://doi.org/10.1007/s11482-014-9309-3>
+
+### Workshop
+
+[**mulemo**](https://daris.netlify.app/) \| Multilevel Model \| 2023\
+[**persia**](https://daris.netlify.app/) \| Pemrograman R Untuk Ilmu Sosial \| 2022\
+[**andalusia**](https://daris.netlify.app/) \| Analisis Data Sekunder Untuk Ilmu Sosial R \| 2022\
+:::
+
+<link rel="me" href="https://fosstodon.org/@adicilik">
