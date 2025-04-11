@@ -1,0 +1,36 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/books/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/posts/regresi/index.html",
+      "/blog/posts/posts/anova/index.html",
+      "/blog/posts/posts/2023-04-13-mlmpsi/index.html"
+    ]
+  },
+  {
+    "listing": "/app-docs/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/posts/posts/2023-04-13-mlmpsi/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
+    "listing": "/training/index.html",
+    "items": []
+  }
+]

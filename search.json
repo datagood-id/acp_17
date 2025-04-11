@@ -1,0 +1,954 @@
+[
+  {
+    "objectID": "training/tidyverse.html#tidyverse",
+    "href": "training/tidyverse.html#tidyverse",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "tidyverse",
+    "text": "tidyverse\n::: columns ::: {.column width=“80%”} - meta R package that loads eight core packages when invoked and also bundles numerous other packages upon installation - tidyverse packages share a design philosophy, common grammar, and data structures :::"
+  },
+  {
+    "objectID": "training/tidyverse.html#setup",
+    "href": "training/tidyverse.html#setup",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "setup",
+    "text": "setup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications."
+  },
+  {
+    "objectID": "teaching/tidyverse.html#tidyverse",
+    "href": "teaching/tidyverse.html#tidyverse",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "tidyverse",
+    "text": "tidyverse\n\n\n\nmeta R package that loads eight core packages when invoked and also bundles numerous other packages upon installation\ntidyverse packages share a design philosophy, common grammar, and data structures\n\n\nsetup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications.\n\nthank you!\nbit.ly/tidyperspective-dagstat"
+  },
+  {
+    "objectID": "teaching/tidyverse.html#setup",
+    "href": "teaching/tidyverse.html#setup",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "setup",
+    "text": "setup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications."
+  },
+  {
+    "objectID": "talks/tidyverse.html#tidyverse",
+    "href": "talks/tidyverse.html#tidyverse",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "tidyverse",
+    "text": "tidyverse\n\n\n\nmeta R package that loads eight core packages when invoked and also bundles numerous other packages upon installation\ntidyverse packages share a design philosophy, common grammar, and data structures\n\n\nsetup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications.\n\nthank you!\nbit.ly/tidyperspective-dagstat"
+  },
+  {
+    "objectID": "talks/tidyverse.html#setup",
+    "href": "talks/tidyverse.html#setup",
+    "title": "an educator’s perspective of the tidyverse",
+    "section": "setup",
+    "text": "setup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications."
+  },
+  {
+    "objectID": "projects/index2.html",
+    "href": "projects/index2.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Adi Cilik Pierewan. Analisis Data Sekunder Untuk Ilmu Sosial (1st Ed). 2023."
+  },
+  {
+    "objectID": "projects/index2.html#other",
+    "href": "projects/index2.html#other",
+    "title": "Projects",
+    "section": "Other",
+    "text": "Other\n\nGould R., Çetinkaya-Rundel M., Zieffler A. (2013 - present) Citizen-Statistician blog\nÇetinkaya-Rundel M., Tackett M. (2020) COVID-19 Data in the Classroom, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 33, No. 3. On GitHub.\nÇetinkaya-Rundel M., Tackett M. (2020) From Drab to Fab: Teaching Visualization via Incremental Improvements, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 33, No. 2. On GitHub.\nÇetinkaya-Rundel M. (2017) DataFest Shows Spike in Growth, Provides Immersive Experience, STATtrak.\nÇetinkaya-Rundel M., Stangl D. (2017) An Interview with Mine Çetinkaya-Rundel, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 30, No. 2.\nRundel C., Çetinkaya-Rundel M., (2016) La Quinta is Spanish for “Next to Denny’s\", Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 29, No. 2.\nGould R., Baumer, B., Çetinkaya-Rundel M., Bray A. (2014) Big Data Goes to College, AMSTAT News. Issue 444.\nBehseta S., Çetinkaya-Rundel M. (2014) Interview with Jim Berger, Chance Magazine. Vol. 27, No. 2.\nMcClintock S., Çetinkaya-Rundel M., Stangl D.K. (2014) A Classroom Project for Generation Z, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 27, No. 4.\nBray A., Çetinkaya-Rundel M., Stangl D.K. (2014) Five Concrete Reasons Your Students Should Be Learning to Analyze Data in the Reproducible Paradigm, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 27, No. 3.\nMorgan K.L., Çetinkaya-Rundel M., Stangl D.K. (2014) Speed Dating: Exploring Initial Romantic Attraction, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 27, No. 2.\nMcClintock S., Çetinkaya-Rundel M., Stangl D.K. (2014) The Real Secret to Genius? Reading Between the Lines, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 27, No. 1.\nSchutt R., Stangl, D.K., Çetinkaya-Rundel M. (2013) Embracing the Ambiguity and Potential of Data Science, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 26, No. 4.\nÇetinkaya-Rundel M., Stangl D.K. (2013) A Celebration of Data, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 26, No. 3.\nÇetinkaya-Rundel M., Morgan K.L., Stangl D.K. (2013) Looking Good on Course Evaluations, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 26, No. 2.\nMorgan K.L., Çetinkaya-Rundel M., Stangl D.K. (2013) The American Community Survey, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 26, No. 1.\nÇetinkaya-Rundel M., Stangl, D.K., Morgan K.L. (2012) Making the Old New Again, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 25, No. 4.\nÇetinkaya-Rundel M., Stangl, D.K., Morgan K.L. (2012) Exploring Google’s Transparency Report, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 25, No. 2.\nStangl D.K., Çetinkaya-Rundel M., Morgan K.L. (2012) Uncounted Votes: A Case Study in Analyzing Aggregated Data, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom. Vol. 25, No. 1."
+  },
+  {
+    "objectID": "cvitae/Untitled.html",
+    "href": "cvitae/Untitled.html",
+    "title": "Some stuff about me",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  &lt;chr&gt;                 &lt;chr&gt;   &lt;chr&gt;               &lt;chr&gt;          &lt;list&gt;   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland &lt;chr [0]&gt;\n2 Master of Physics     1893    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n\n\n\n\nNobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  &lt;glue&gt;                   &lt;dbl&gt; &lt;chr&gt;                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…\n\n\n\n\nPublications"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#illustration",
+    "href": "blog/posts/posts/regresi/lm.html#illustration",
+    "title": "Linear Regression",
+    "section": "Illustration",
+    "text": "Illustration\n\nA group of researchers in Indonesia were interested in looking at how well social relationship and/or health predicted happiness\nThe study included more than 72,000 respondents, and differences in happiness mean scores were estimated using linear regression.\nThe results found that level of social relationship health did predict happiness significantly"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#what-is-prediction",
+    "href": "blog/posts/posts/regresi/lm.html#what-is-prediction",
+    "title": "Linear Regression",
+    "section": "What is prediction?",
+    "text": "What is prediction?\nThe basic idea is to use a set of previously collected data (such as data on variables X and Y), calculate how correlated these variables are with one another, and then use that correlation and the knowledge of X to predict Y."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#example",
+    "href": "blog/posts/posts/regresi/lm.html#example",
+    "title": "Linear Regression",
+    "section": "Example",
+    "text": "Example\n\nA researcher collects data on total high school grade point average (GPA) and first-year university GPA for 400 students in their freshman year at the state university.\nHe computes the correlation between the two variables. Then, he uses the techniques you’ll learn about later in this chapter to take a new set of high school GPAs and (knowing the relationship between high school GPA and first-year college GPA from the previous set of students) predict what first-year GPA should be for a new sample of 400 students."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#the-logic-of-prediction",
+    "href": "blog/posts/posts/regresi/lm.html#the-logic-of-prediction",
+    "title": "Linear Regression",
+    "section": "The logic of prediction",
+    "text": "The logic of prediction\n\nPrediction is the computation of future outcomes based on a knowledge of present ones.\nWhen we want to predict one variable from another, we need to first compute the correlation between the two variables."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#data",
+    "href": "blog/posts/posts/regresi/lm.html#data",
+    "title": "Linear Regression",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#plot",
+    "href": "blog/posts/posts/regresi/lm.html#plot",
+    "title": "Linear Regression",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#regression-line",
+    "href": "blog/posts/posts/regresi/lm.html#regression-line",
+    "title": "Linear Regression",
+    "section": "Regression line",
+    "text": "Regression line"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#predicting",
+    "href": "blog/posts/posts/regresi/lm.html#predicting",
+    "title": "Linear Regression",
+    "section": "Predicting",
+    "text": "Predicting"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#error-in-predictiong",
+    "href": "blog/posts/posts/regresi/lm.html#error-in-predictiong",
+    "title": "Linear Regression",
+    "section": "Error in predictiong",
+    "text": "Error in predictiong"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#basic-formula-of-regression",
+    "href": "blog/posts/posts/regresi/lm.html#basic-formula-of-regression",
+    "title": "Linear Regression",
+    "section": "Basic formula of regression",
+    "text": "Basic formula of regression\n\\[\ny=bX+a\n\\]\n\ny is the predicted score of Y based on a known value of X,\nb is the slope of the line,\nX is the score being used as the predictor, and\na is the point at which the line crosses the y-axis."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#detailed-formula",
+    "href": "blog/posts/posts/regresi/lm.html#detailed-formula",
+    "title": "Linear Regression",
+    "section": "Detailed formula",
+    "text": "Detailed formula\n\\[\nb = \\frac{{\\Sigma{XY}}-(\\Sigma{X}\\Sigma{Y}/n)}{\\Sigma{X^2}-[(\\Sigma{X})^2)/n]}\n\\]\n\\[\na=\\frac{\\Sigma{Y}-b\\Sigma{X}}{n}\n\\]"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#entry-data",
+    "href": "blog/posts/posts/regresi/lm.html#entry-data",
+    "title": "Linear Regression",
+    "section": "Entry data",
+    "text": "Entry data\n\nhs_gpa &lt;- c(3.50, 2.50, 4.00, 3.80, 2.80, 1.90, 3.20, 3.70, 2.70, 3.30)\nu_gpa &lt;- c(3.30, 2.20, 3.50,  2.70, 3.50, 2.00, 3.10, 3.40, 1.90, 3.70)\ngpa &lt;- data.frame(hs_gpa, u_gpa)"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#calculate-the-components",
+    "href": "blog/posts/posts/regresi/lm.html#calculate-the-components",
+    "title": "Linear Regression",
+    "section": "calculate the components",
+    "text": "calculate the components\n\nlibrary(tidyverse)\ngpa&lt;-gpa %&gt;% mutate(hs_gpa_hat=hs_gpa^2) %&gt;%\n  mutate(u_gpa_hat=u_gpa^2) %&gt;%\n  mutate(hsXu=hs_gpa*u_gpa) \ngpa\n\n   hs_gpa u_gpa hs_gpa_hat u_gpa_hat  hsXu\n1     3.5   3.3      12.25     10.89 11.55\n2     2.5   2.2       6.25      4.84  5.50\n3     4.0   3.5      16.00     12.25 14.00\n4     3.8   2.7      14.44      7.29 10.26\n5     2.8   3.5       7.84     12.25  9.80\n6     1.9   2.0       3.61      4.00  3.80\n7     3.2   3.1      10.24      9.61  9.92\n8     3.7   3.4      13.69     11.56 12.58\n9     2.7   1.9       7.29      3.61  5.13\n10    3.3   3.7      10.89     13.69 12.21"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#early-table",
+    "href": "blog/posts/posts/regresi/lm.html#early-table",
+    "title": "Linear Regression",
+    "section": "Early Table",
+    "text": "Early Table"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#calculate-b",
+    "href": "blog/posts/posts/regresi/lm.html#calculate-b",
+    "title": "Linear Regression",
+    "section": "Calculate b",
+    "text": "Calculate b\n\nsum_hs=sum(hs_gpa)\nsum_u=sum(u_gpa)\nsum_hs_hat=sum(hs_gpa)^2\nsum_hs_gpa_hat=sum(gpa$hs_gpa_hat)\nsum_hs_u=sum(gpa$hsXu)\n\nsum_hs\n\n[1] 31.4\n\nsum_hs_hat\n\n[1] 985.96\n\nsum_u\n\n[1] 29.3\n\nsum_hs_gpa_hat\n\n[1] 102.5\n\nsum_hs_u\n\n[1] 94.75"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#calculate-b-1",
+    "href": "blog/posts/posts/regresi/lm.html#calculate-b-1",
+    "title": "Linear Regression",
+    "section": "calculate b",
+    "text": "calculate b\n\\[\nb=\\frac{{\\Sigma{XY}}-(\\Sigma{X}.\\Sigma{Y}/n)}{\\Sigma{X^2}-[(\\Sigma{X})^2)/n]}\n\\]\n\nn &lt;- 10\nb &lt;- (sum_hs_u-(sum_hs*sum_u)/n) / ((sum_hs_gpa_hat-(sum_hs_hat)/n))\nb\n\n[1] 0.7038934"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#calculate-a",
+    "href": "blog/posts/posts/regresi/lm.html#calculate-a",
+    "title": "Linear Regression",
+    "section": "calculate a",
+    "text": "calculate a\n\\[\na=\\frac{\\Sigma{Y}-b\\Sigma{X}}{n}\n\\]\n\na &lt;- (sum_u - b*sum_hs)/n\na\n\n[1] 0.7197746"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm.html#calculate-y",
+    "href": "blog/posts/posts/regresi/lm.html#calculate-y",
+    "title": "Linear Regression",
+    "section": "calculate y",
+    "text": "calculate y\n\\[\ny=bX+a\n\\]\n\ny &lt;- b*3.5 + a\ny\n\n[1] 3.183402"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html",
+    "href": "blog/posts/posts/anova/index.html",
+    "title": "Analysis of Variance (Anova)",
+    "section": "",
+    "text": "library(psych)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ ggplot2::%+%()   masks psych::%+%()\n✖ ggplot2::alpha() masks psych::alpha()\n✖ dplyr::filter()  masks stats::filter()\n✖ dplyr::lag()     masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(rstatix)\n\n\nAttaching package: 'rstatix'\n\nThe following object is masked from 'package:stats':\n\n    filter\n\nlibrary(report)\n\nWarning: package 'report' was built under R version 4.4.3"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#library",
+    "href": "blog/posts/posts/anova/index.html#library",
+    "title": "Analysis of Variance (Anova)",
+    "section": "",
+    "text": "library(psych)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ ggplot2::%+%()   masks psych::%+%()\n✖ ggplot2::alpha() masks psych::alpha()\n✖ dplyr::filter()  masks stats::filter()\n✖ dplyr::lag()     masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(rstatix)\n\n\nAttaching package: 'rstatix'\n\nThe following object is masked from 'package:stats':\n\n    filter\n\nlibrary(report)\n\nWarning: package 'report' was built under R version 4.4.3"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#membaca-data",
+    "href": "blog/posts/posts/anova/index.html#membaca-data",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Membaca data",
+    "text": "Membaca data\n\ndata pengukuran tingkat kebahagiaan\ntingkat DIY\n\n\nincome &lt;- read_csv(\"income_happiness_diy.csv\")\n\nRows: 913 Columns: 4\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (1): Provinsi\ndbl (3): Income_ind, Income_hh, Happiness\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\nstr(income)\n\nspc_tbl_ [913 × 4] (S3: spec_tbl_df/tbl_df/tbl/data.frame)\n $ Provinsi  : chr [1:913] \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" ...\n $ Income_ind: num [1:913] 5 5 5 NA 5 4 1 3 4 5 ...\n $ Income_hh : num [1:913] 5 5 5 5 3 4 2 1 1 1 ...\n $ Happiness : num [1:913] 6 8 7 6 6 6 9 8 5 8 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   Provinsi = col_character(),\n  ..   Income_ind = col_double(),\n  ..   Income_hh = col_double(),\n  ..   Happiness = col_double()\n  .. )\n - attr(*, \"problems\")=&lt;externalptr&gt;"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#visualisasi-awal",
+    "href": "blog/posts/posts/anova/index.html#visualisasi-awal",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Visualisasi awal",
+    "text": "Visualisasi awal\n\nincome %&gt;% ggplot(aes(Income_hh, Happiness, color = Income_hh)) +\n  geom_jitter()"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#deskriptif",
+    "href": "blog/posts/posts/anova/index.html#deskriptif",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Deskriptif",
+    "text": "Deskriptif\n\nincome %&gt;%\n  group_by(Income_hh) %&gt;%\n  get_summary_stats(Happiness, type = \"mean_sd\")\n\n# A tibble: 5 × 5\n  Income_hh variable      n  mean    sd\n      &lt;dbl&gt; &lt;fct&gt;     &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1         1 Happiness    58  8.22  1.03\n2         2 Happiness    73  8.10  1.03\n3         3 Happiness   123  7.50  1.26\n4         4 Happiness   288  7.58  1.46\n5         5 Happiness   371  7.17  1.46"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#uji-anova",
+    "href": "blog/posts/posts/anova/index.html#uji-anova",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Uji anova",
+    "text": "Uji anova\n\nbeda &lt;- aov(Happiness~Income_hh, data=income)\nsummary(beda) \n\n             Df Sum Sq Mean Sq F value   Pr(&gt;F)    \nIncome_hh     1   87.2   87.24   45.71 2.45e-11 ***\nResiduals   911 1738.8    1.91                     \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/index.html#effect-size",
+    "href": "blog/posts/posts/anova/index.html#effect-size",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Effect Size",
+    "text": "Effect Size\n\nA small effect size is about .01.\nA medium effect size is about .06.\nA large effect size is about .14.\n\n\nreport(beda)\n\nThe ANOVA (formula: Happiness ~ Income_hh) suggests that:\n\n  - The main effect of Income_hh is statistically significant and small (F(1,\n911) = 45.71, p &lt; .001; Eta2 = 0.05, 95% CI [0.03, 1.00])\n\nEffect sizes were labelled following Field's (2013) recommendations."
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#fungsi-anova",
+    "href": "blog/posts/posts/anova/anova.html#fungsi-anova",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Fungsi Anova",
+    "text": "Fungsi Anova\n\n\nmenguji perbedaan variasi antar kelompok (lebih dari 2) variabel yang akan kita uji\nkita akan menguji household income and happiness\nRQ: apakah terdapat perbedaan tingkat kebahagiaan ditinjau dari tingkat pendapatan?"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#library",
+    "href": "blog/posts/posts/anova/anova.html#library",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Library",
+    "text": "Library\n\nlibrary(psych)\nlibrary(tidyverse)\nlibrary(rstatix)\nlibrary(report)"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#membaca-data",
+    "href": "blog/posts/posts/anova/anova.html#membaca-data",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Membaca data",
+    "text": "Membaca data\n\ndata pengukuran tingkat kebahagiaan\ntingkat DIY\n\n\nincome &lt;- read_csv(\"income_happiness_diy.csv\")\nstr(income)\n\nspc_tbl_ [913 × 4] (S3: spec_tbl_df/tbl_df/tbl/data.frame)\n $ Provinsi  : chr [1:913] \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" ...\n $ Income_ind: num [1:913] 5 5 5 NA 5 4 1 3 4 5 ...\n $ Income_hh : num [1:913] 5 5 5 5 3 4 2 1 1 1 ...\n $ Happiness : num [1:913] 6 8 7 6 6 6 9 8 5 8 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   Provinsi = col_character(),\n  ..   Income_ind = col_double(),\n  ..   Income_hh = col_double(),\n  ..   Happiness = col_double()\n  .. )\n - attr(*, \"problems\")=&lt;externalptr&gt;"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#visualisasi-awal",
+    "href": "blog/posts/posts/anova/anova.html#visualisasi-awal",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Visualisasi awal",
+    "text": "Visualisasi awal\n\nincome %&gt;% ggplot(aes(Income_hh, Happiness, color = Income_hh)) +\n  geom_jitter()"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#membuat-boxplot",
+    "href": "blog/posts/posts/anova/anova.html#membuat-boxplot",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Membuat boxplot",
+    "text": "Membuat boxplot\n\nincome %&gt;% mutate(income_fct = as.factor(Income_hh)) %&gt;% ggplot(aes(income_fct, Happiness, color=Income_hh)) + \n  geom_boxplot()"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#deskriptif",
+    "href": "blog/posts/posts/anova/anova.html#deskriptif",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Deskriptif",
+    "text": "Deskriptif\n\nincome %&gt;%\n  group_by(Income_hh) %&gt;%\n  get_summary_stats(Happiness, type = \"mean_sd\")\n\n# A tibble: 5 × 5\n  Income_hh variable      n  mean    sd\n      &lt;dbl&gt; &lt;fct&gt;     &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1         1 Happiness    58  8.22  1.03\n2         2 Happiness    73  8.10  1.03\n3         3 Happiness   123  7.50  1.26\n4         4 Happiness   288  7.58  1.46\n5         5 Happiness   371  7.17  1.46"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#uji-anova",
+    "href": "blog/posts/posts/anova/anova.html#uji-anova",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Uji anova",
+    "text": "Uji anova\n\nbeda &lt;- aov(Happiness~Income_hh, data=income)\nsummary(beda)\n\n             Df Sum Sq Mean Sq F value   Pr(&gt;F)    \nIncome_hh     1   87.2   87.24   45.71 2.45e-11 ***\nResiduals   911 1738.8    1.91                     \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova.html#effect-size",
+    "href": "blog/posts/posts/anova/anova.html#effect-size",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Effect Size",
+    "text": "Effect Size\n\nA small effect size is about .01.\nA medium effect size is about .06.\nA large effect size is about .14.\n\n\nreport(beda)\n\nThe ANOVA (formula: Happiness ~ Income_hh) suggests that:\n\n  - The main effect of Income_hh is statistically significant and small (F(1,\n911) = 45.71, p &lt; .001; Eta2 = 0.05, 95% CI [0.03, 1.00])\n\nEffect sizes were labelled following Field's (2013) recommendations."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html",
+    "title": "MLM Psikologi",
+    "section": "",
+    "text": "Data besar/sekunder dalam R\nInsight psikologi untuk kebijakan\nPenggunaan R"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#motivasi",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#motivasi",
+    "title": "MLM Psikologi",
+    "section": "",
+    "text": "Data besar/sekunder dalam R\nInsight psikologi untuk kebijakan\nPenggunaan R"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#outline",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#outline",
+    "title": "MLM Psikologi",
+    "section": "Outline",
+    "text": "Outline\n\nMengapa multilevel?\nKonsep utama analisis multilevel\nIlustrasi estimasi multilevel\nPenerapan dan refleksi"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#annual-reviews-of-psychology",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#annual-reviews-of-psychology",
+    "title": "MLM Psikologi",
+    "section": "Annual Reviews of Psychology",
+    "text": "Annual Reviews of Psychology"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel",
+    "title": "MLM Psikologi",
+    "section": "Mengapa analisis multilevel?",
+    "text": "Mengapa analisis multilevel?\n\nPemodelan regresi klasik mengasumsikan bahwa kasus adalah independen. Hal ini tidak selalu benar ketika kita menjumpai struktur tersarang. Misalnya, siswa yang bersekolah di sekolah yang sama mungkin memiliki hasil yang serupa (atau lebih mirip daripada sampel acak).\nJadi, dalam situasi ini asumsi regresi OLS tidak terpenuhi, mengabaikan struktur tersarang akan menyebabkan hasil yang bias.\nAnalisis statistik standar sangat bergantung pada asumsi independensi pengamatan. Jika asumsi ini dilanggar (pada data tersarang) maka standar error terlalu kecil dan menghasilkan banyak hasil signifikansi yang kurang tepat."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-1",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-1",
+    "title": "MLM Psikologi",
+    "section": "Mengapa analisis multilevel?",
+    "text": "Mengapa analisis multilevel?\n\nStruktur tersarang ini bisa memberi tahu kita hal-hal penting tentang dunia sosial. Mengetahui berapa banyak variasi yang kita miliki di setiap tingkat dapat menginformasikan kebijakan dan teori.\nModel multilevel memungkinkan kita untuk memperkirakan sumber variasi yang berbeda ini."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-2",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-2",
+    "title": "MLM Psikologi",
+    "section": "Mengapa Analisis Multilevel?",
+    "text": "Mengapa Analisis Multilevel?"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#penelitian-multilevel",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#penelitian-multilevel",
+    "title": "MLM Psikologi",
+    "section": "Penelitian multilevel",
+    "text": "Penelitian multilevel\n\nPenelitian sosial seringkali melibatkan masalah terkait menyelidiki hubungan antara individu dan konteks sosial tempat mereka tinggal, bekerja , atau belajar.\nAsumsi dasarnya adalah individu berinteraksi dengan konteks sosial tempat mereka berada, individu dipengaruhi oleh konteks atau kelompok di mana mereka berasal , dan bahwa kelompok tersebut pada gilirannya dipengaruhi oleh individu yang membentuk kelompok itu .\nIndividu dan kelompok sosial dikonseptualisasikan sebagai sistem hierarki individu yang tersarang dalam kelompok, dengan individu dan kelompok ditentukan pada level terpisah dari sistem hierarki ini .\nSecara alami, sistem seperti itu dapat diamati pada level hierarki yang berbeda, dan variabel dapat ditentukan di setiap level.\nHal ini mengarah pada penelitian tentang hubungan antara variabel yang menjadi ciri individu dan variabel yang mencirikan kelompok. Penelitian ini disebut sebagai penelitian multilevel"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#data-tersarang",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#data-tersarang",
+    "title": "MLM Psikologi",
+    "section": "Data tersarang",
+    "text": "Data tersarang\n\nStruktur data bertingkat adalah struktur di mana pengamatan pada satu tingkat analisis disarangkan (atau dikelompokkan atau dikelompokkan) dalam pengamatan pada tingkat analisis lainnya.\nStruktur data bertingkat digambarkan hanya sebagai bersarang atau bersarang secara hierarkis.\nFitur penting dan menentukan dari data multilevel tersebut adalah bahwa pengamatan pada satu tingkat analisis tidak independen satu sama lain—ada saling ketergantungan di antara data yang perlu diperhitungkan."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#ilustrasi",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#ilustrasi",
+    "title": "MLM Psikologi",
+    "section": "Ilustrasi",
+    "text": "Ilustrasi"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-analisis-multilevel",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-analisis-multilevel",
+    "title": "MLM Psikologi",
+    "section": "Intuisi analisis multilevel",
+    "text": "Intuisi analisis multilevel\n\nDalam model bertingkat kita memisahkan sumber variasi.\nDalam konteks saat kita memisahkan informasi tingkat siswa dan sekolah sehingga kita memiliki dua sumber variasi yang berbeda.\nDalam proses estimasi kita mulai dengan model null sehingga kita memiliki referensi dan memahami berapa banyak variasi yang dimiliki pada setiap level."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#multilevel-model",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#multilevel-model",
+    "title": "MLM Psikologi",
+    "section": "Multilevel model",
+    "text": "Multilevel model\nYij = γ00 + U0j + Rij\n\nYij: variabel tergantung yang bervariasi secara individual i, pada kelompok j.\nγ00: intercept\nU0j: variasi antar kelompok. Memberi informasi bahwa kelompok berbeda satu sama lain.\nRij: variasi individual. Koefisien ini memberi informasi perbedaan individu setiap kelompok."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#random-intercept",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#random-intercept",
+    "title": "MLM Psikologi",
+    "section": "Random Intercept",
+    "text": "Random Intercept"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#random-slope",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#random-slope",
+    "title": "MLM Psikologi",
+    "section": "Random Slope",
+    "text": "Random Slope"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-1",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-1",
+    "title": "MLM Psikologi",
+    "section": "Intraclass correlation (ICC) 1",
+    "text": "Intraclass correlation (ICC) 1\n\nDalam kasus di mana individu dikelompokkan atau bersarang dalam unit level yang lebih tinggi misal: kelas , sekolah , distrik sekolah), dimungkinkan untuk memperkirakan korelasi antara skor individu dalam cluster/struktur bersarang menggunakan korelasi intraklass 𝜌).\n𝜌 adalah ukuran proporsi variasi dalam variabel hasil yang terjadi antara grup versus variasi total yang ada."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-2",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-2",
+    "title": "MLM Psikologi",
+    "section": "Intraclass correlation (ICC) 2",
+    "text": "Intraclass correlation (ICC) 2\n\nNilai 𝜌 berkisar dari 0 (tidak ada variansi antar grup) hingga 1 (variansi antar grup).\nNilai 𝜌 yang tinggi mengindikasikan bahwa sumbangan besar dari variasi total dalam ukuran hasil dikaitkan dengan keanggotaan grup; yaitu ada hubungan yang relatif kuat antara skor untuk dua individu dari kelompok yang sama ⟹individu dalam grup yang sama (misalnya sekolah) lebih mirip pada variabel terukur daripada individu yang berada di kelompok lain."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-3",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-3",
+    "title": "MLM Psikologi",
+    "section": "Intraclass correlation (ICC) 3",
+    "text": "Intraclass correlation (ICC) 3\n\nICC adalah alat penting dalam pemodelan multilevel, karena ICC merupakan indikator sejauh mana struktur data multilevel dapat mempengaruhi variabel hasil yang diinginkan.\nNilai ICC yang lebih besar menunjukkan dampak pengelompokan yang lebih besar. Berarti semakin tinggi nilai ICC maka semakin penting penggunaan analisis multilevel."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-random-slope",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-random-slope",
+    "title": "MLM Psikologi",
+    "section": "Intuisi Random Slope",
+    "text": "Intuisi Random Slope\n\nModel sebelumnya membuat asumsi bahwa pengaruh growth mindset adalah sama di semua sekolah (itu sebabnya garisnya paralel).\nBagaimana jika satu skor growth mindset lebih “efektif” di beberapa sekolah daripada yang lain dalam meningkatkan skor matematika.\nPada titik ini random slope diperlukan.\nKita memperoleh koefisien baru yang menggambarkan perbedaan antar sekolah dalam pengaruh growth mindset terhadap skor matematika."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#interpretasi-random-effects",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#interpretasi-random-effects",
+    "title": "MLM Psikologi",
+    "section": "Interpretasi random effects",
+    "text": "Interpretasi random effects\n\nGrafik menunjukkan bahwa beberapa sekolah memiliki memiliki skor matematika yang tinggi tetapi memiliki efek yang rendah pada outcome dan sebaliknya.\nGaris biru mewakili hubungan antara intersep acak dan kemiringan dengan koefisien sebesar 0.6. Hal ini menunjukkan bahwa semakin kecil fixed mindset, semakin tinggi skor matematika."
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#penerapan",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#penerapan",
+    "title": "MLM Psikologi",
+    "section": "Penerapan",
+    "text": "Penerapan\n\nEksperimen\nMeta analisis\nSurvey\nMultilevel SEM\nPenelitian longitudinal"
+  },
+  {
+    "objectID": "blog/posts/posts/2023-04-13-mlmpsi/index.html#refleksi-akhir",
+    "href": "blog/posts/posts/2023-04-13-mlmpsi/index.html#refleksi-akhir",
+    "title": "MLM Psikologi",
+    "section": "Refleksi akhir",
+    "text": "Refleksi akhir\n\nAnalisis multilevel membantu mengurangi kesalahan dalam pembuatan kesimpulan\nPentingnya memperhatikan konteks dalam studi psikologi\nPemanfaatan data skala besar untuk penelitian psikologi\nDalam pembuatan kebijakan analisis multilevel dapat digunakan untuk kebijakan yang lebih presisi."
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#library",
+    "href": "blog/posts/posts/anova/anova_r.html#library",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Library",
+    "text": "Library\n\nlibrary(psych)\nlibrary(tidyverse)\nlibrary(rstatix)\nlibrary(report)"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#membaca-data",
+    "href": "blog/posts/posts/anova/anova_r.html#membaca-data",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Membaca data",
+    "text": "Membaca data\n\ndata pengukuran tingkat kebahagiaan\ntingkat DIY\n\n\nincome &lt;- read_csv(\"income_happiness_diy.csv\")\nstr(income)\n\nspc_tbl_ [913 × 4] (S3: spec_tbl_df/tbl_df/tbl/data.frame)\n $ Provinsi  : chr [1:913] \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" \"Di Yogyakarta\" ...\n $ Income_ind: num [1:913] 5 5 5 NA 5 4 1 3 4 5 ...\n $ Income_hh : num [1:913] 5 5 5 5 3 4 2 1 1 1 ...\n $ Happiness : num [1:913] 6 8 7 6 6 6 9 8 5 8 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   Provinsi = col_character(),\n  ..   Income_ind = col_double(),\n  ..   Income_hh = col_double(),\n  ..   Happiness = col_double()\n  .. )\n - attr(*, \"problems\")=&lt;externalptr&gt;"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#visualisasi-awal",
+    "href": "blog/posts/posts/anova/anova_r.html#visualisasi-awal",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Visualisasi awal",
+    "text": "Visualisasi awal\n\nincome %&gt;% ggplot(aes(Income_hh, Happiness, color = Income_hh)) +\n  geom_jitter()"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#deskriptif",
+    "href": "blog/posts/posts/anova/anova_r.html#deskriptif",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Deskriptif",
+    "text": "Deskriptif\n\nincome %&gt;%\n  group_by(Income_hh) %&gt;%\n  get_summary_stats(Happiness, type = \"mean_sd\")\n\n# A tibble: 5 × 5\n  Income_hh variable      n  mean    sd\n      &lt;dbl&gt; &lt;fct&gt;     &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1         1 Happiness    58  8.22  1.03\n2         2 Happiness    73  8.10  1.03\n3         3 Happiness   123  7.50  1.26\n4         4 Happiness   288  7.58  1.46\n5         5 Happiness   371  7.17  1.46"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#uji-anova",
+    "href": "blog/posts/posts/anova/anova_r.html#uji-anova",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Uji anova",
+    "text": "Uji anova\n\nbeda &lt;- aov(Happiness~Income_hh, data=income)\nsummary(beda) \n\n             Df Sum Sq Mean Sq F value   Pr(&gt;F)    \nIncome_hh     1   87.2   87.24   45.71 2.45e-11 ***\nResiduals   911 1738.8    1.91                     \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1"
+  },
+  {
+    "objectID": "blog/posts/posts/anova/anova_r.html#effect-size",
+    "href": "blog/posts/posts/anova/anova_r.html#effect-size",
+    "title": "Analysis of Variance (Anova)",
+    "section": "Effect Size",
+    "text": "Effect Size\n\nA small effect size is about .01.\nA medium effect size is about .06.\nA large effect size is about .14.\n\n\nreport(beda)\n\nThe ANOVA (formula: Happiness ~ Income_hh) suggests that:\n\n  - The main effect of Income_hh is statistically significant and small (F(1,\n911) = 45.71, p &lt; .001; Eta2 = 0.05, 95% CI [0.03, 1.00])\n\nEffect sizes were labelled following Field's (2013) recommendations."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html",
+    "href": "blog/posts/posts/regresi/index.html",
+    "title": "Linear Model",
+    "section": "",
+    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nA group of researchers in Indonesia were interested in looking at how well social relationship and/or health predicted happiness\nThe study included more than 72,000 respondents, and differences in happiness mean scores were estimated using linear regression.\nThe results found that level of social relationship health did predict happiness significantly"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#illustration",
+    "href": "blog/posts/posts/regresi/index.html#illustration",
+    "title": "Linear Model",
+    "section": "",
+    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nA group of researchers in Indonesia were interested in looking at how well social relationship and/or health predicted happiness\nThe study included more than 72,000 respondents, and differences in happiness mean scores were estimated using linear regression.\nThe results found that level of social relationship health did predict happiness significantly"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#what-is-prediction",
+    "href": "blog/posts/posts/regresi/index.html#what-is-prediction",
+    "title": "Linear Model",
+    "section": "What is prediction?",
+    "text": "What is prediction?\nThe basic idea is to use a set of previously collected data (such as data on variables X and Y), calculate how correlated these variables are with one another, and then use that correlation and the knowledge of X to predict Y."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#example",
+    "href": "blog/posts/posts/regresi/index.html#example",
+    "title": "Linear Model",
+    "section": "Example",
+    "text": "Example\n\nA researcher collects data on total high school grade point average (GPA) and first-year university GPA for 400 students in their freshman year at the state university.\nHe computes the correlation between the two variables. Then, he uses the techniques you’ll learn about later in this chapter to take a new set of high school GPAs and (knowing the relationship between high school GPA and first-year college GPA from the previous set of students) predict what first-year GPA should be for a new sample of 400 students."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#the-logic-of-prediction",
+    "href": "blog/posts/posts/regresi/index.html#the-logic-of-prediction",
+    "title": "Linear Model",
+    "section": "The logic of prediction",
+    "text": "The logic of prediction\n\nPrediction is the computation of future outcomes based on a knowledge of present ones.\nWhen we want to predict one variable from another, we need to first compute the correlation between the two variables."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#data",
+    "href": "blog/posts/posts/regresi/index.html#data",
+    "title": "Linear Model",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#plot",
+    "href": "blog/posts/posts/regresi/index.html#plot",
+    "title": "Linear Model",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#regression-line",
+    "href": "blog/posts/posts/regresi/index.html#regression-line",
+    "title": "Linear Model",
+    "section": "Regression line",
+    "text": "Regression line"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#predicting",
+    "href": "blog/posts/posts/regresi/index.html#predicting",
+    "title": "Linear Model",
+    "section": "Predicting",
+    "text": "Predicting"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#error-in-predictiong",
+    "href": "blog/posts/posts/regresi/index.html#error-in-predictiong",
+    "title": "Linear Model",
+    "section": "Error in predictiong",
+    "text": "Error in predictiong"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#basic-formula-of-regression",
+    "href": "blog/posts/posts/regresi/index.html#basic-formula-of-regression",
+    "title": "Linear Model",
+    "section": "Basic formula of regression",
+    "text": "Basic formula of regression\n\\[\ny=bX+a\n\\]\n\ny is the predicted score of Y based on a known value of X,\nb is the slope of the line,\nX is the score being used as the predictor, and\na is the point at which the line crosses the y-axis."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#detailed-formula",
+    "href": "blog/posts/posts/regresi/index.html#detailed-formula",
+    "title": "Linear Model",
+    "section": "Detailed formula",
+    "text": "Detailed formula\n\\[\nb = \\frac{{\\Sigma{XY}}-(\\Sigma{X}\\Sigma{Y}/n)}{\\Sigma{X^2}-[(\\Sigma{X})^2)/n]}\n\\]\n\\[\na=\\frac{\\Sigma{Y}-b\\Sigma{X}}{n}\n\\]"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#entry-data",
+    "href": "blog/posts/posts/regresi/index.html#entry-data",
+    "title": "Linear Model",
+    "section": "Entry data",
+    "text": "Entry data\n\nhs_gpa &lt;- c(3.50, 2.50, 4.00, 3.80, 2.80, 1.90, 3.20, 3.70, 2.70, 3.30)\nu_gpa &lt;- c(3.30, 2.20, 3.50,  2.70, 3.50, 2.00, 3.10, 3.40, 1.90, 3.70)\ngpa &lt;- data.frame(hs_gpa, u_gpa)"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#calculate-the-components",
+    "href": "blog/posts/posts/regresi/index.html#calculate-the-components",
+    "title": "Linear Model",
+    "section": "calculate the components",
+    "text": "calculate the components\n\nlibrary(tidyverse)\ngpa&lt;-gpa %&gt;% mutate(hs_gpa_hat=hs_gpa^2) %&gt;%\n  mutate(u_gpa_hat=u_gpa^2) %&gt;%\n  mutate(hsXu=hs_gpa*u_gpa) \ngpa\n\n   hs_gpa u_gpa hs_gpa_hat u_gpa_hat  hsXu\n1     3.5   3.3      12.25     10.89 11.55\n2     2.5   2.2       6.25      4.84  5.50\n3     4.0   3.5      16.00     12.25 14.00\n4     3.8   2.7      14.44      7.29 10.26\n5     2.8   3.5       7.84     12.25  9.80\n6     1.9   2.0       3.61      4.00  3.80\n7     3.2   3.1      10.24      9.61  9.92\n8     3.7   3.4      13.69     11.56 12.58\n9     2.7   1.9       7.29      3.61  5.13\n10    3.3   3.7      10.89     13.69 12.21"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#early-table",
+    "href": "blog/posts/posts/regresi/index.html#early-table",
+    "title": "Linear Model",
+    "section": "Early Table",
+    "text": "Early Table"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#calculate-b",
+    "href": "blog/posts/posts/regresi/index.html#calculate-b",
+    "title": "Linear Model",
+    "section": "Calculate b",
+    "text": "Calculate b\n\nsum_hs=sum(hs_gpa)\nsum_u=sum(u_gpa)\nsum_hs_hat=sum(hs_gpa)^2\nsum_hs_gpa_hat=sum(gpa$hs_gpa_hat)\nsum_hs_u=sum(gpa$hsXu)\n\nsum_hs\n\n[1] 31.4\n\nsum_hs_hat\n\n[1] 985.96\n\nsum_u\n\n[1] 29.3\n\nsum_hs_gpa_hat\n\n[1] 102.5\n\nsum_hs_u\n\n[1] 94.75"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#calculate-b-1",
+    "href": "blog/posts/posts/regresi/index.html#calculate-b-1",
+    "title": "Linear Model",
+    "section": "calculate b",
+    "text": "calculate b\n\\[\nb=\\frac{{\\Sigma{XY}}-(\\Sigma{X}.\\Sigma{Y}/n)}{\\Sigma{X^2}-[(\\Sigma{X})^2)/n]}\n\\]\n\nn &lt;- 10\nb &lt;- (sum_hs_u-(sum_hs*sum_u)/n) / ((sum_hs_gpa_hat-(sum_hs_hat)/n))\nb\n\n[1] 0.7038934"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#calculate-a",
+    "href": "blog/posts/posts/regresi/index.html#calculate-a",
+    "title": "Linear Model",
+    "section": "calculate a",
+    "text": "calculate a\n\\[\na=\\frac{\\Sigma{Y}-b\\Sigma{X}}{n}\n\\]\n\na &lt;- (sum_u - b*sum_hs)/n\na\n\n[1] 0.7197746"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/index.html#calculate-y",
+    "href": "blog/posts/posts/regresi/index.html#calculate-y",
+    "title": "Linear Model",
+    "section": "calculate y",
+    "text": "calculate y\n\\[\ny=bX+a\n\\]\n\ny &lt;- b*3.5 + a\ny\n\n[1] 3.183402"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#illustration",
+    "href": "blog/posts/posts/regresi/lm2.html#illustration",
+    "title": "Linear Regression",
+    "section": "Illustration",
+    "text": "Illustration\n\nA group of researchers in Indonesia were interested in looking at how well social relationship and/or healths predicted happiness modify this association\nThe study included more than 72,000 respondents, and differences in happiness mean scores were estimated using linear regression.\nThe results found that level of social relationship health did predict happiness significantly"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#what-is-prediction",
+    "href": "blog/posts/posts/regresi/lm2.html#what-is-prediction",
+    "title": "Linear Regression",
+    "section": "What is prediction?",
+    "text": "What is prediction?\nThe basic idea is to use a set of previously collected data (such as data on variables X and Y), calculate how correlated these variables are with one another, and then use that correlation and the knowledge of X to predict Y. Sound difficult? It’s not really, especially once you see it illustrated."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#example",
+    "href": "blog/posts/posts/regresi/lm2.html#example",
+    "title": "Linear Regression",
+    "section": "Example",
+    "text": "Example\n\nA researcher collects data on total high school grade point average (GPA) and first-year university GPA for 400 students in their freshman year at the state university.\nHe computes the correlation between the two variables. Then, he uses the techniques you’ll learn about later in this chapter to take a new set of high school GPAs and (knowing the relationship between high school GPA and first-year college GPA from the previous set of students) predict what first-year GPA should be for a new sample of 400 students."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#the-logic-of-prediction",
+    "href": "blog/posts/posts/regresi/lm2.html#the-logic-of-prediction",
+    "title": "Linear Regression",
+    "section": "The logic of prediction",
+    "text": "The logic of prediction\n\nPrediction is the computation of future outcomes based on a knowledge of present ones.\nWhen we want to predict one variable from another, we need to first compute the correlation between the two variables."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#data",
+    "href": "blog/posts/posts/regresi/lm2.html#data",
+    "title": "Linear Regression",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#plot",
+    "href": "blog/posts/posts/regresi/lm2.html#plot",
+    "title": "Linear Regression",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#regression-line",
+    "href": "blog/posts/posts/regresi/lm2.html#regression-line",
+    "title": "Linear Regression",
+    "section": "Regression line",
+    "text": "Regression line"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#predicting",
+    "href": "blog/posts/posts/regresi/lm2.html#predicting",
+    "title": "Linear Regression",
+    "section": "Predicting",
+    "text": "Predicting"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#error-in-predictiong",
+    "href": "blog/posts/posts/regresi/lm2.html#error-in-predictiong",
+    "title": "Linear Regression",
+    "section": "Error in predictiong",
+    "text": "Error in predictiong"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#basic-formula-of-regression",
+    "href": "blog/posts/posts/regresi/lm2.html#basic-formula-of-regression",
+    "title": "Linear Regression",
+    "section": "Basic formula of regression",
+    "text": "Basic formula of regression\n\\[\ny=bX+a\n\\]\n\nY^ is the predicted score of Y based on a known value of X,\nb is the slope of the line,\nX is the score being used as the predictor, and\na is the point at which the line crosses the y-axis."
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#detailed-formula",
+    "href": "blog/posts/posts/regresi/lm2.html#detailed-formula",
+    "title": "Linear Regression",
+    "section": "Detailed formula",
+    "text": "Detailed formula\n\\[\nb = \\frac{{\\Sigma{XY}}-(\\Sigma{X}.\\Sigma{Y}/n)}{\\Sigma{X^2}-[(\\Sigma{X})^2)/n]}\n\\]\n\\[\na=\\frac{\\Sigma{Y}-b\\Sigma{X}}{n}\n\\]"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#entry-data",
+    "href": "blog/posts/posts/regresi/lm2.html#entry-data",
+    "title": "Linear Regression",
+    "section": "Entry data",
+    "text": "Entry data\n\nhs_gpa &lt;- c(3.50, 2.50, 4.00, 3.80, 2.80, 1.90, 3.20, 3.70, 2.70, 3.30)\nu_gpa &lt;- c(3.30, 2.20, 3.50,  2.70, 3.50, 2.00, 3.10, 3.40, 1.90, 3.70)\ngpa &lt;- data.frame(hs_gpa, u_gpa)"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#calculate-the-components",
+    "href": "blog/posts/posts/regresi/lm2.html#calculate-the-components",
+    "title": "Linear Regression",
+    "section": "calculate the components",
+    "text": "calculate the components\n\ngpa&lt;-gpa %&gt;% mutate(hs_gpa_hat=hs_gpa^2) %&gt;%\n  mutate(u_gpa_hat=u_gpa^2) %&gt;%\n  mutate(hsXu=hs_gpa*u_gpa) \ngpa\n\n   hs_gpa u_gpa hs_gpa_hat u_gpa_hat  hsXu\n1     3.5   3.3      12.25     10.89 11.55\n2     2.5   2.2       6.25      4.84  5.50\n3     4.0   3.5      16.00     12.25 14.00\n4     3.8   2.7      14.44      7.29 10.26\n5     2.8   3.5       7.84     12.25  9.80\n6     1.9   2.0       3.61      4.00  3.80\n7     3.2   3.1      10.24      9.61  9.92\n8     3.7   3.4      13.69     11.56 12.58\n9     2.7   1.9       7.29      3.61  5.13\n10    3.3   3.7      10.89     13.69 12.21"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#early-table",
+    "href": "blog/posts/posts/regresi/lm2.html#early-table",
+    "title": "Linear Regression",
+    "section": "Early Table",
+    "text": "Early Table"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#calculate-b",
+    "href": "blog/posts/posts/regresi/lm2.html#calculate-b",
+    "title": "Linear Regression",
+    "section": "Calculate b",
+    "text": "Calculate b\n\nsum_hs=sum(hs_gpa)\nsum_hs_hat=sum(hs_gpa)^2\nsum_u=sum(u_gpa)\nsum_hs_gpa_hat=sum(gpa$hs_gpa_hat)\nsum_hs_u=sum(gpa$hsXu)\n\nsum_hs\n\n[1] 31.4\n\nsum_hs_hat\n\n[1] 985.96\n\nsum_u\n\n[1] 29.3\n\nsum_hs_gpa_hat\n\n[1] 102.5\n\nsum_hs_u\n\n[1] 94.75"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#calculate-b-1",
+    "href": "blog/posts/posts/regresi/lm2.html#calculate-b-1",
+    "title": "Linear Regression",
+    "section": "calculate b",
+    "text": "calculate b\n\nn &lt;- 10\nb &lt;- (sum_hs_u-(sum_hs*sum_u)/n) / ((sum_hs_gpa_hat-(sum_hs_hat)/n))\nb\n\n[1] 0.7038934"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#calculate-a",
+    "href": "blog/posts/posts/regresi/lm2.html#calculate-a",
+    "title": "Linear Regression",
+    "section": "calculate a",
+    "text": "calculate a\n\na &lt;- (sum_u - b*sum_hs)/n\na\n\n[1] 0.7197746"
+  },
+  {
+    "objectID": "blog/posts/posts/regresi/lm2.html#calculate-y",
+    "href": "blog/posts/posts/regresi/lm2.html#calculate-y",
+    "title": "Linear Regression",
+    "section": "calculate y",
+    "text": "calculate y\n\ny &lt;- b*3.5 + a\ny\n\n[1] 3.183402"
+  },
+  {
+    "objectID": "cvitae/cv-acp.html",
+    "href": "cvitae/cv-acp.html",
+    "title": "Some stuff about me",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  &lt;chr&gt;                 &lt;chr&gt;   &lt;chr&gt;               &lt;chr&gt;          &lt;list&gt;   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland &lt;chr [0]&gt;\n2 Master of Physics     1893    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n\n\n\n\nNobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  &lt;glue&gt;                   &lt;dbl&gt; &lt;chr&gt;                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…\n\n\n\n\nPublications"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "adi cilik pierewan",
+    "section": "",
+    "text": "I am an assistant professor in quantitative methods for social science at Universitas Negeri Yogyakarta. I obtained my Bachelor of Psychology and Master of Sociology from Universitas Gadjah Mada, and obtained PhD from Institute for Social Change now becoming Cathie Marsh Institute for Social Research, University of Manchester. My research focus is twofold: how to teach next generation of social data science and examine happiness for pubic policy.\n\n\n\n\n\nSpatial dependence multilevel model of well-being across regions in Europe. Adi Cilik Pierewan., Gindo Tampubolon. 2014. Applied Geography 47: 168-176. https://doi.org/10.1016/j.apgeog.2013.12.005\nIndividual and contextual factors of happiness and life satisfaction in a low middle income country. Sujarwoto, Gindo Tampubolon, Adi Cilik Pierewan. 2019. Applied Research in Quality of Life 13, 927-945 https://doi.org/10.1007/s11482-017-9567-y\nHappiness and health in Europe: a multivariate multilevel model. Adi Cilik Pierewan., Gindo Tampubolon. 2015. Applied Research in Quality of Life 10: 237-252. https://doi.org/10.1007/s11482-014-9309-3\n\n\n\nmulemo | Multilevel Model | 2023\npersia | Pemrograman R Untuk Ilmu Sosial | 2022\nandalusia | Analisis Data Sekunder Untuk Ilmu Sosial R | 2022"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "adi cilik pierewan",
+    "section": "",
+    "text": "I am an assistant professor in quantitative methods for social science at Universitas Negeri Yogyakarta. I obtained my Bachelor of Psychology and Master of Sociology from Universitas Gadjah Mada, and obtained PhD from Institute for Social Change now becoming Cathie Marsh Institute for Social Research, University of Manchester. My research focus is twofold: how to teach next generation of social data science and examine happiness for pubic policy."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "adi cilik pierewan",
+    "section": "",
+    "text": "Spatial dependence multilevel model of well-being across regions in Europe. Adi Cilik Pierewan., Gindo Tampubolon. 2014. Applied Geography 47: 168-176. https://doi.org/10.1016/j.apgeog.2013.12.005\nIndividual and contextual factors of happiness and life satisfaction in a low middle income country. Sujarwoto, Gindo Tampubolon, Adi Cilik Pierewan. 2019. Applied Research in Quality of Life 13, 927-945 https://doi.org/10.1007/s11482-017-9567-y\nHappiness and health in Europe: a multivariate multilevel model. Adi Cilik Pierewan., Gindo Tampubolon. 2015. Applied Research in Quality of Life 10: 237-252. https://doi.org/10.1007/s11482-014-9309-3\n\n\n\nmulemo | Multilevel Model | 2023\npersia | Pemrograman R Untuk Ilmu Sosial | 2022\nandalusia | Analisis Data Sekunder Untuk Ilmu Sosial R | 2022"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "",
+    "text": "Data besar/sekunder dalam R\nInsight psikologi untuk kebijakan\nPenggunaan R"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#motivasi",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#motivasi",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "",
+    "text": "Data besar/sekunder dalam R\nInsight psikologi untuk kebijakan\nPenggunaan R"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#outline",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#outline",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Outline",
+    "text": "Outline\n\nMengapa multilevel?\nKonsep utama analisis multilevel\nIlustrasi estimasi multilevel\nPenerapan dan refleksi"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#annual-reviews-of-psychology",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#annual-reviews-of-psychology",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Annual Reviews of Psychology",
+    "text": "Annual Reviews of Psychology"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Mengapa analisis multilevel?",
+    "text": "Mengapa analisis multilevel?\n\nPemodelan regresi klasik mengasumsikan bahwa kasus adalah independen. Hal ini tidak selalu benar ketika kita menjumpai struktur tersarang. Misalnya, siswa yang bersekolah di sekolah yang sama mungkin memiliki hasil yang serupa (atau lebih mirip daripada sampel acak).\nJadi, dalam situasi ini asumsi regresi OLS tidak terpenuhi, mengabaikan struktur tersarang akan menyebabkan hasil yang bias.\nAnalisis statistik standar sangat bergantung pada asumsi independensi pengamatan. Jika asumsi ini dilanggar (pada data tersarang) maka standar error terlalu kecil dan menghasilkan banyak hasil signifikansi yang kurang tepat."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-1",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-1",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Mengapa analisis multilevel?",
+    "text": "Mengapa analisis multilevel?\n\nStruktur tersarang ini bisa memberi tahu kita hal-hal penting tentang dunia sosial. Mengetahui berapa banyak variasi yang kita miliki di setiap tingkat dapat menginformasikan kebijakan dan teori.\nModel multilevel memungkinkan kita untuk memperkirakan sumber variasi yang berbeda ini."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-2",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#mengapa-analisis-multilevel-2",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Mengapa Analisis Multilevel?",
+    "text": "Mengapa Analisis Multilevel?"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#penelitian-multilevel",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#penelitian-multilevel",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Penelitian multilevel",
+    "text": "Penelitian multilevel\n\nPenelitian sosial seringkali melibatkan masalah terkait menyelidiki hubungan antara individu dan konteks sosial tempat mereka tinggal, bekerja , atau belajar.\nAsumsi dasarnya adalah individu berinteraksi dengan konteks sosial tempat mereka berada, individu dipengaruhi oleh konteks atau kelompok di mana mereka berasal , dan bahwa kelompok tersebut pada gilirannya dipengaruhi oleh individu yang membentuk kelompok itu .\nIndividu dan kelompok sosial dikonseptualisasikan sebagai sistem hierarki individu yang tersarang dalam kelompok, dengan individu dan kelompok ditentukan pada level terpisah dari sistem hierarki ini .\nSecara alami, sistem seperti itu dapat diamati pada level hierarki yang berbeda, dan variabel dapat ditentukan di setiap level.\nHal ini mengarah pada penelitian tentang hubungan antara variabel yang menjadi ciri individu dan variabel yang mencirikan kelompok. Penelitian ini disebut sebagai penelitian multilevel"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#data-tersarang",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#data-tersarang",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Data tersarang",
+    "text": "Data tersarang\n\nStruktur data bertingkat adalah struktur di mana pengamatan pada satu tingkat analisis disarangkan (atau dikelompokkan atau dikelompokkan) dalam pengamatan pada tingkat analisis lainnya.\nStruktur data bertingkat digambarkan hanya sebagai bersarang atau bersarang secara hierarkis.\nFitur penting dan menentukan dari data multilevel tersebut adalah bahwa pengamatan pada satu tingkat analisis tidak independen satu sama lain—ada saling ketergantungan di antara data yang perlu diperhitungkan."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#ilustrasi",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#ilustrasi",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Ilustrasi",
+    "text": "Ilustrasi"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-analisis-multilevel",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-analisis-multilevel",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Intuisi analisis multilevel",
+    "text": "Intuisi analisis multilevel\n\nDalam model bertingkat kita memisahkan sumber variasi.\nDalam konteks saat kita memisahkan informasi tingkat siswa dan sekolah sehingga kita memiliki dua sumber variasi yang berbeda.\nDalam proses estimasi kita mulai dengan model null sehingga kita memiliki referensi dan memahami berapa banyak variasi yang dimiliki pada setiap level."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#multilevel-model",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#multilevel-model",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Multilevel model",
+    "text": "Multilevel model\nYij = γ00 + U0j + Rij\n\nYij: variabel tergantung yang bervariasi secara individual i, pada kelompok j.\nγ00: intercept\nU0j: variasi antar kelompok. Memberi informasi bahwa kelompok berbeda satu sama lain.\nRij: variasi individual. Koefisien ini memberi informasi perbedaan individu setiap kelompok."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#random-intercept",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#random-intercept",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Random Intercept",
+    "text": "Random Intercept"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#random-slope",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#random-slope",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Random Slope",
+    "text": "Random Slope"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-1",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-1",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Intraclass correlation (ICC) 1",
+    "text": "Intraclass correlation (ICC) 1\n\nDalam kasus di mana individu dikelompokkan atau bersarang dalam unit level yang lebih tinggi misal: kelas , sekolah , distrik sekolah), dimungkinkan untuk memperkirakan korelasi antara skor individu dalam cluster/struktur bersarang menggunakan korelasi intraklass 𝜌).\n𝜌 adalah ukuran proporsi variasi dalam variabel hasil yang terjadi antara grup versus variasi total yang ada."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-2",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-2",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Intraclass correlation (ICC) 2",
+    "text": "Intraclass correlation (ICC) 2\n\nNilai 𝜌 berkisar dari 0 (tidak ada variansi antar grup) hingga 1 (variansi antar grup).\nNilai 𝜌 yang tinggi mengindikasikan bahwa sumbangan besar dari variasi total dalam ukuran hasil dikaitkan dengan keanggotaan grup; yaitu ada hubungan yang relatif kuat antara skor untuk dua individu dari kelompok yang sama ⟹individu dalam grup yang sama (misalnya sekolah) lebih mirip pada variabel terukur daripada individu yang berada di kelompok lain."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-3",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intraclass-correlation-icc-3",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Intraclass correlation (ICC) 3",
+    "text": "Intraclass correlation (ICC) 3\n\nICC adalah alat penting dalam pemodelan multilevel, karena ICC merupakan indikator sejauh mana struktur data multilevel dapat mempengaruhi variabel hasil yang diinginkan.\nNilai ICC yang lebih besar menunjukkan dampak pengelompokan yang lebih besar. Berarti semakin tinggi nilai ICC maka semakin penting penggunaan analisis multilevel."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-random-slope",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#intuisi-random-slope",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Intuisi Random Slope",
+    "text": "Intuisi Random Slope\n\nModel sebelumnya membuat asumsi bahwa pengaruh growth mindset adalah sama di semua sekolah (itu sebabnya garisnya paralel).\nBagaimana jika satu skor growth mindset lebih “efektif” di beberapa sekolah daripada yang lain dalam meningkatkan skor matematika.\nPada titik ini random slope diperlukan.\nKita memperoleh koefisien baru yang menggambarkan perbedaan antar sekolah dalam pengaruh growth mindset terhadap skor matematika."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#interpretasi-random-effects",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#interpretasi-random-effects",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Interpretasi random effects",
+    "text": "Interpretasi random effects\n\nGrafik menunjukkan bahwa beberapa sekolah memiliki memiliki skor matematika yang tinggi tetapi memiliki efek yang rendah pada outcome dan sebaliknya.\nGaris biru mewakili hubungan antara intersep acak dan kemiringan dengan koefisien sebesar 0.6. Hal ini menunjukkan bahwa semakin kecil fixed mindset, semakin tinggi skor matematika."
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#penerapan",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#penerapan",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Penerapan",
+    "text": "Penerapan\n\nEksperimen\nMeta analisis\nSurvey\nMultilevel SEM\nPenelitian longitudinal"
+  },
+  {
+    "objectID": "projects/posts/posts/2023-04-13-mlmpsi/index.html#refleksi-akhir",
+    "href": "projects/posts/posts/2023-04-13-mlmpsi/index.html#refleksi-akhir",
+    "title": "Analisis Multilevel dalam Penelitian Psikologi",
+    "section": "Refleksi akhir",
+    "text": "Refleksi akhir\n\nAnalisis multilevel membantu mengurangi kesalahan dalam pembuatan kesimpulan\nPentingnya memperhatikan konteks dalam studi psikologi\nPemanfaatan data skala besar untuk penelitian psikologi\nDalam pembuatan kebijakan analisis multilevel dapat digunakan untuk kebijakan yang lebih presisi."
+  },
+  {
+    "objectID": "talks/swbpolicy.html#rencana-paparan",
+    "href": "talks/swbpolicy.html#rencana-paparan",
+    "title": "Subjective well-being dan kebijakan publik",
+    "section": "Rencana paparan",
+    "text": "Rencana paparan\n\nTujuan\nSekilas tentang studi kebahagiaan\nDua streams kebahagiaan dan kebijakan publik\nBagaimana mengukur kebahagiaan?\nHasil kajian\nRekomendasi untuk kebijakan"
+  },
+  {
+    "objectID": "talks/swbpolicy.html#mengapa-perlu-berfokus-pada-kebahagiaan",
+    "href": "talks/swbpolicy.html#mengapa-perlu-berfokus-pada-kebahagiaan",
+    "title": "Subjective well-being dan kebijakan publik",
+    "section": "Mengapa perlu berfokus pada kebahagiaan?",
+    "text": "Mengapa perlu berfokus pada kebahagiaan?\n\nTujuan hidup manusia adalah bahagia: Aristoteles\nTujuan bangsa Indonesia sesuai Pembukaan UUD 1945: memajukan kesejahteraan umum\nRaja Bhutan sudah memulai dengan Gross National Happiness 2008\nKomisi Sarkozy 2008: Beyond GDP. Pengukuran kemajuan bangsa tidak hanya diukur dengan pertumbuhan ekonomi saja, namun indikator kesejahteraan lain harus diperhatikan termasuk indikator subjektif.\nPBB mulai mengadopsi pengukuran kebahagiaan sejak 2012\nMenjadi salah satu indikator SDGs (Health and well-being). Kesejaheraan merupakan indikator SDGs nomor 4.\nPemerintah Indonesia perlahan menuju adopsi kebijakan tersebut dan diharapkan membantu meningkatkan kebahagiaan masyarakat."
+  },
+  {
+    "objectID": "talks/swbpolicy.html#masalah-yang-muncul-di-indonesia",
+    "href": "talks/swbpolicy.html#masalah-yang-muncul-di-indonesia",
+    "title": "Subjective well-being dan kebijakan publik",
+    "section": "Masalah yang muncul di Indonesia",
+    "text": "Masalah yang muncul di Indonesia\n\nPengukuran kebahagiaan atau pengukuran subjektif belum banyak diterima oleh pemerintah secara luas\nMasih belum banyak kajian yang kuat mengenai kebahagiaan yang digunakan untuk kebijakan"
+  },
+  {
+    "objectID": "talks/swbpolicy.html#tujuan",
+    "href": "talks/swbpolicy.html#tujuan",
+    "title": "Subjective well-being dan kebijakan publik",
+    "section": "Tujuan",
+    "text": "Tujuan\n\nMenjajaki kemungkinan penggunaan kebahagiaan untuk kebijakan publik.\nMengidentifikasi pertanyaan yang relevan untuk mengukur efektivitas kebijakan publik.\nMerekomendasikan beberapa pengukuran dan langkah untuk pengukuran kemajuan bangsa"
+  }
+]
